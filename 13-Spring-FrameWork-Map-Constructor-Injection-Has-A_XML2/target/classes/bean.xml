@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<bean id="c1" class="com.cjc.model.Contact">
+		<constructor-arg name="cnum" value="787986787" />
+		<constructor-arg name="cname" value="Pravin" />
+	</bean>
+
+	<bean id="c2" class="com.cjc.model.Contact">
+		<constructor-arg name="cnum" value="89562356" />
+		<constructor-arg name="cname" value="Vishal" />
+	</bean>
+
+
+
+	<bean id="mob" class="com.cjc.model.Mobile">
+		<constructor-arg name="price" value="100000" />
+		<constructor-arg name="data">
+			<map>
+				<entry key="101" value-ref="c1" />
+				<entry key="102" value-ref="c2" />
+			</map>
+		</constructor-arg>
+	</bean>
+
+</beans>

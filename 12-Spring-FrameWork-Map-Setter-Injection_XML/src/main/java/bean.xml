@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<bean id="mob" class="com.cjc.model.Mobile">
+		<property name="price" value="100000" />
+		<property name="data">
+			<map>
+				<entry key="101" value="ABC" />
+				<entry key="102" value="PQR" />
+				<entry key="103" value="XYZ" />
+				<entry key="101" value="ASD" />
+			</map>
+		</property>
+	</bean>
+
+</beans>

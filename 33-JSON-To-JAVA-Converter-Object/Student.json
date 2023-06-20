@@ -1,0 +1,27 @@
+{
+	"rollno": 101,
+	"name": "XYZ",
+	"mobile": 8956523,
+	"address": {
+		"pincode": 441904,
+		"city": "Pune",
+		"area": "Akrudi"
+	},
+	"book": [
+		{
+			"bookId": 201,
+			"bookName": "Java",
+			"bookPrice": 450.5
+		},
+		{
+			"bookId": 202,
+			"bookName": "Phython",
+			"bookPrice": 300.5
+		},
+		{
+			"bookId": 203,
+			"bookName": "C++",
+			"bookPrice": 650.5
+		}
+	]
+}

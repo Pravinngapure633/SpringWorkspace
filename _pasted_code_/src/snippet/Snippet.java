@@ -1,0 +1,9 @@
+package snippet;
+
+public class Snippet {
+	con.driver_class=com.mysql.jdbc.Driver
+	con.url=jdbc:mysql://localhost:3306/Springframework
+	con.username=root
+	con.password=root
+}
+

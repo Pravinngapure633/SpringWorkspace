@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="36-Spring-Boot-Project-Task5-Document-Uploading-Database"/>
+<aop-project name="31-Sprin-Boot-Project-Task2-One-To-Many"/>
+<aop-project name="32-Sprin-Boot-Project-Task3-Many-To-One"/>
+<aop-project name="22-Spring_MVC_DB_Con_All_Crude_Operation_XMl_Based_Continue-3"/>
+<aop-project name="27-Spring-Boot-Web-Mail-Sender"/>
+<aop-project name="34-Spring-Boot-Project-Task4-Connecting-Angular-One-TO-One"/>
+<aop-project name="zzz"/>
+<aop-project name="34-Spring-Boot-Project-Task4-Connecting-Angular-One-TO-Many"/>
+<aop-project name="33-Hitesh-Sir-Task-Hotel-API"/>
+<aop-project name="35-Spring-Boot-Project-Task4-Join-Table"/>
+<aop-project name="34-Spring-Boot-Project-Task3-Connecting-Angular"/>
+<aop-project name="31-Sprin-Boot-Project-Task-One-To-One"/>
+</aop-reference-model>

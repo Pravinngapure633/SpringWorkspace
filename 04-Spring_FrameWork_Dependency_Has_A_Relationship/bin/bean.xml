@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<!-- Setter Injetion -->
+	<!-- <bean id="ad" class="com.model.Address">
+	<property name="pincode" value="4568"/>
+	<property name="area" value="Akurdi"/>
+	<property name="city" value="pune"/>
+	</bean>
+	
+	<bean id="stu" class="com.model.Student">
+	<property name="rollno" value="101"/>
+	<property name="name" value="Pravin"/>
+	<property name="addr" ref="ad"/>
+	</bean>
+	 -->
+	<!-- Constructor Injection -->
+	<bean id="ad" class="com.model.Address">
+	<constructor-arg name="pincode" value="4154"/>
+	<constructor-arg name="area" value="Thane"/>
+	<constructor-arg name="city" value="Mubmbai"/>
+	</bean>
+	
+	<bean id="stu" class="com.model.Student">
+	<constructor-arg name="rollno" value="101"/>
+	<constructor-arg name="name" value="Koma"/>
+	<constructor-arg name="addr" ref="ad"/>
+	</bean>
+</beans>

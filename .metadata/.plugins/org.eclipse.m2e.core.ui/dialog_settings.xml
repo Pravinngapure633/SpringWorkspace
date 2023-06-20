@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="D:\Spring Workspace\19-Spring_MVC_Product_Program_DavkarSir"/>
+			<item value="D:\Spring Workspace\17-Spring-FrameWork-JDBC-JAVA-BAsed-Using_Component_Autowired-2"/>
+			<item value="D:\Spring Workspace\05-Spring-FrameWork-Autowiring_byName-javaBased"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.cjc"/>
+			<item value="com.cjc._JSON_To_JAVA_Converter"/>
+			<item value="com.cjc.A"/>
+			<item value="com.cjc._Bank_Project"/>
+		</list>
+		<list key="groupId">
+			<item value="com.cjc"/>
+		</list>
+		<list key="artifactId">
+			<item value="33-JSON-To-JAVA-Converter-Object"/>
+			<item value="33-JSON-To-JAVA-Converter"/>
+			<item value="A"/>
+			<item value="23-Task3"/>
+			<item value="23-Task2"/>
+			<item value="23-Task-1-Using-Spring_Mvc"/>
+			<item value="20-Spring_MVC_DB_Con_XMl_Based_Continue-2"/>
+			<item value="20-Spring_MVC_XML_Based-1"/>
+			<item value="19-Spring_MVC_Product_Program"/>
+			<item value="19-Spring-MVC-Poduct"/>
+			<item value="19-Bank_Project"/>
+			<item value="18-Spring-FrameWork-JAVA-BASE-ALL-Crude-Operation-with-propertiesFile-3"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="D:\Spring Workspace\SpringBootMappingExample"/>
+			<item value="D:\Spring Workspace\librarymanagementsystem-main"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

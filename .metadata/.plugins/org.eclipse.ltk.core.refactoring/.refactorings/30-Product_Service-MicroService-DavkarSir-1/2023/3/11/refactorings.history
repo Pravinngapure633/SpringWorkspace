@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;ProductService.java&apos; to &apos;30-Product_Service-MicroService-DavkarSir-1/src/main/java/com.cjc.service&apos;&#x0D;&#x0A;- Original project: &apos;30-Product_Service-MicroService-DavkarSir-1&apos;&#x0D;&#x0A;- Destination element: &apos;30-Product_Service-MicroService-DavkarSir-1/src/main/java/com.cjc.service&apos;&#x0D;&#x0A;- Original element: &apos;com.cjc.controller.ProductService.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src\/main\/java&lt;com.cjc.service" element1="/src\/main\/java&lt;com.cjc.controller{ProductService.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1678685299553" units="1" version="1.0"/>
+</session>

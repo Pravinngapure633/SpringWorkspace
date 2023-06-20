@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.cjc._Spring_FrameWork_JDBC_JAVA_BAsed&apos; to &apos;com.cjc&apos;&#x0D;&#x0A;- Original project: &apos;17-Spring-FrameWork-JDBC-JAVA-BAsed&apos;&#x0D;&#x0A;- Original element: &apos;17-Spring-FrameWork-JDBC-JAVA-BAsed/src/main/java/com.cjc._Spring_FrameWork_JDBC_JAVA_BAsed&apos;&#x0D;&#x0A;- Renamed element: &apos;17-Spring-FrameWork-JDBC-JAVA-BAsed/src/main/java/com.cjc&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.cjc._Spring_FrameWork_JDBC_JAVA_BAsed&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java&lt;com.cjc._Spring_FrameWork_JDBC_JAVA_BAsed" name="com.cjc" qualified="false" references="true" stamp="1676355815751" textual="false" version="1.0"/>
+</session>
